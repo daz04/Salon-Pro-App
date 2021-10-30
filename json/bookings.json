@@ -1,0 +1,26 @@
+{
+    "bookings": [
+        {
+            "Id": "01",
+            "ClientEmail": "danazahreddine@hotmail.com",
+            "StylistId":"01",
+            "AppointmentId":"02",
+            "Status": "confirmed"
+        },
+        {
+            "Id": "02",
+            "ClientEmail": "danazahreddine@hotmail.com",
+            "StylistId": "01",
+            "AppointmentId":"03",
+            "Status": "confirmed"
+        },
+        {
+            "Id": "03",
+            "ClientEmail": "danazahreddine@hotmail.com",
+            "StylistId": "01",
+            "AppointmentId":"04",
+            "Status": "confirmed"
+        }
+
+    ]
+}

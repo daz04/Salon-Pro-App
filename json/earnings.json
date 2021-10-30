@@ -1,0 +1,12 @@
+{
+    "earnings": [
+        {
+            "StylistId": "01",
+            "Dates": [
+                
+                {"date":"2021-04-22", "transactions": ["01","02"]}
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,15 @@
+{
+    "titles": [
+        {
+            "Makeup Artist": ["Makeup"]
+        },
+        {
+            "Nail Technician": ["Nails"]
+        },
+        {
+            "Hair Styling": ["Natural Hair Care","Braiding","Haircut","Weave"]
+        }
+
+
+    ]
+}

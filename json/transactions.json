@@ -1,0 +1,22 @@
+{
+    "transactions": [
+        {
+            "Id": "01",
+            "StylistId": "01",
+            "ClientId": "01",
+            "BookingId": "01",
+            "Amount": 100.58,
+            "withdrew": false
+
+        },
+        {
+            "Id": "02",
+            "StylistId": "01",
+            "ClientId": "01",
+            "BookingId": "03",
+            "Amount": 105.58,
+            "withdrew":true
+        }
+
+    ]
+}

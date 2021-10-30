@@ -1,0 +1,22 @@
+{
+    "address": [
+        {
+            "Id": "01",
+            "Label": "Home",
+            "StreetNumber": "0031",
+            "StreetName": "some street",
+            "City": "Coral Springs",
+            "State": "Florida",
+            "Zip": "098765"
+        },
+        {
+            "Id": "02",
+            "Label": "School",
+            "StreetNumber": "0032",
+            "StreetName": "some street",
+            "City": "Coral Springs",
+            "State": "Florida",
+            "Zip": "098765"
+        }
+    ]
+}
